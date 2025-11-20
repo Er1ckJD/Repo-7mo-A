@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/React-Native/PrimeraApp1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/React-Native/test-screens" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parcial/React-Native/PrimeraApp1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parcial/React-Native/test-screens" vcs="Git" />
   </component>
 </project>
